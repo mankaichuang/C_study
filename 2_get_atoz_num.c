@@ -3,11 +3,11 @@
 
 //方法一:通过返回值形式返回
 //这里注意2个问题:
-//1.返回的是数组的首地址,所以应该为int型
+//1.返回的是数组的首地址;
 //2.返回的数组不能为局部变量，如果为局部变量，需要定义为static
-static int* get_atoz_num(char *s)
+static char* get_atoz_num(char *s)
 {
-    static num[26];
+    static char num[26];
     memset(num,0,26);
     for(; *s != '\0'; s++){
         if(*s >= 'a' && *s <= 'z'){
@@ -33,7 +33,7 @@ int main(void)
     int i;
     char s[50];
     char n[26];
-    int *p;
+    char *p;
     printf("please input char:\r\n");
     gets(s);
     //方法一
