@@ -35,7 +35,7 @@
 *       
 *   2、数组传参之后sizeof的问题
 *       我们知道，通用的计算数组长度的方法为sizeof(array) / sizeof(array[0]) 
-*       然而数组传参之后，实际上传递的数组的首地址，所以sizeof(array) = sizeof(array[0])
+*       然而数组传参之后，实际上传递的数组的首地址，所以sizeof(array) = 4
 *       因此，数组传参之后，我们就不能通过sizeof(array) / sizeof(array[0])来计算数组长度了
 *       一般通用做法是提前计算出数组长度，然后通过参数将长度传递进去。
 */
