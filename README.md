@@ -46,3 +46,7 @@ C语言每日一练。
 11、11_hw_sort_removal.c华为C语言题，明明的随机数
 
 12、12_hw_string_cut.c 华为C语言题，字符串分割
+
+13、13_inhex_outd.c 华为C语言题，进制转换
+
+14、14_primefacter.c 华为C语言题，质数因子
