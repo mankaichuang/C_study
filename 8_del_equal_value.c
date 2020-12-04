@@ -39,5 +39,6 @@ int main(void)
         printf("输入的数组长度有误\r\n");
     }
 
+    return 0;
 
 }
