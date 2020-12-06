@@ -50,3 +50,7 @@ C语言每日一练。
 13、13_inhex_outd.c 华为C语言题，进制转换
 
 14、14_primefacter.c 华为C语言题，质数因子
+
+15、15_float_to_int.c 华为机试  取近似值
+
+16、16_merge_data.c 华为机试 合并表记录
