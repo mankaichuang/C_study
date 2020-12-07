@@ -3,7 +3,7 @@
 *   即将相同索引的数值进行求和运算，输出按照key值升序进行输出；
 */
 
-//hash表法
+//哈希表法
 #include <stdio.h>
 
 int main(void)

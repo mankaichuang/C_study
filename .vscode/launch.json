@@ -15,7 +15,7 @@
             "environment": [],
             "externalConsole": false,
             "MIMode": "gdb",
-            "miDebuggerPath": "D:\\software\\QT\\Tools\\mingw730_32\\bin\\gdb.exe",
+            "miDebuggerPath": "C:\\QT\\Qt5.14.2\\Tools\\mingw730_32\\bin\\gdb.exe",
             "setupCommands": [
                 {
                     "description": "为 gdb 启用整齐打印",

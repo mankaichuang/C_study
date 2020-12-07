@@ -54,3 +54,15 @@ C语言每日一练。
 15、15_float_to_int.c 华为机试  取近似值
 
 16、16_merge_data.c 华为机试 合并表记录
+
+17、17_hw_no_rep_int.c 华为机试 提取不重复的整数
+
+18、18_hw_char_count.c 华为机试 字符个数统计
+
+19、19_hw_reversed_int.c 华为机试 数字颠倒
+
+20、20_hw_reversed_string.c 华为机试 字符串反转
+
+21、21_hw_reversed_sentence.c 华为机试 句子逆序
+
+22、22_hw_string_sort.c 华为机试 字符串排序
