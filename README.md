@@ -66,3 +66,5 @@ C语言每日一练。
 21、21_hw_reversed_sentence.c 华为机试 句子逆序
 
 22、22_hw_string_sort.c 华为机试 字符串排序
+
+23、23_hw_int_has_1_count.c 华为机试 求int型正整数在内存中存储时1的个数
