@@ -68,3 +68,9 @@ C语言每日一练。
 22、22_hw_string_sort.c 华为机试 字符串排序
 
 23、23_hw_int_has_1_count.c 华为机试 求int型正整数在内存中存储时1的个数
+
+24、24_dp.c 01背包问题 24_hw_shopping_list.c 华为机试 购物单
+
+25、25_hw_collect_fiveblessings.c 华为机试 集五福
+
+26、26_list.c 链表基本练习，链表的生成，打印和删除
