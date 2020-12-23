@@ -1,3 +1,7 @@
+/*  头节点包含数据的情况
+*
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
