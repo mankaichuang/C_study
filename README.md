@@ -76,3 +76,5 @@ C语言每日一练。
 26、26_list.c 链表基本练习，链表的生成，打印和删除
 
 27、27_list1.c 链表练习，头节点不含数据
+
+hw_HexBinDecOct hw_print hw_rsa 我的三道华为机试题
